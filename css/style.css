@@ -116,6 +116,7 @@ main.container {
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
+  margin-top: -10rem;
 }
 
 .hero {
@@ -137,4 +138,5 @@ main.container {
 #js-rotating {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 3rem;
+  color: white;
 }
