@@ -133,6 +133,7 @@ main.container {
   align-items: center;
   border: 1px solid green;
   margin: 12.5% 25%;
+  background: rgb(177, 208, 173, 0.7);
 }
 
 #js-rotating {
